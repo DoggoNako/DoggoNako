@@ -21,7 +21,7 @@ Ideas:
 - Language que je connais
 - J'apprends quoi en ce moment
 - Mes stats
-- Signature en ASCII ? https://patorjk.com/software/taag/#p=display&f=Mer&t=DoggoNako
+- Signature en ASCII ? https://patorjk.com/software/taag/#p=display&f=Mer&t=DoggoNako (2 personnes pour n°1, 1 personne pour n°2)
     _  __     __      
   / |/ /__ _/ /_____      ႔ ႔ 
  /    / _ `/  '_/ _ \   ᠸᵕ ᵕ  𐅠
