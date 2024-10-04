@@ -14,6 +14,9 @@
         <img src="https://img.shields.io/badge/Reddit-Orange?style=for-the-badge&logo=reddit&logoColor=white&color=%23FF451F"> 
     </a>
 </div>
+&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoggoNako&layout=compact&theme=apprentice)
 
 <!--
 Here are some ideas to get you started:
@@ -30,8 +33,7 @@ Here are some ideas to get you started:
 Ideas: 
 - Bannière: 
     - fond chill avec phrase "Hey, I'm Nako 👋"
-    - Fond animé ? => GIF
-    - Text dédoublé (Text normal et plusieurs texte derrière mais que bordure)
+    - Text dédoublé (Text normal et plusieurs texte derrière mais que bordure) <= p'tet pas, c'est nul
 - Liens vers réseaux
 - Description sur moi
 - Language que je connais
@@ -49,7 +51,7 @@ Ideas:
  _| \_| \__,_| _|\_\ \___/  
 
 |¯¯¯\|¯¯¯|    /¯¯¯¯¯¯| |¯¯¯|/¯¯¯/  /¯¯¯¯¯\      ႔ ႔ 
-|   '|   |  /   !|   |      <° |   x   |'     ᠸᵕ ᵕ  𐅠
+|   '|   |  /   !|   |      <° |   x   |'     ᠸᵕ ᵕ  𐅠    <=== Sûrement mon préféré
 |___|\___| /___/¯|__'| |___|\___\  \_____/                
 
 Inspi':
