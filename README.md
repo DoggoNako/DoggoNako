@@ -1,4 +1,19 @@
-## Hi there 👋
+## Insert Banner
+
+<div class="badges" align="center">
+    <a href="https://x.com/DoggoNako"> 
+        <img src="https://img.shields.io/badge/Twitter-Blue?style=for-the-badge&logo=X&color=%231DA1F2"> 
+    </a>
+    <a href="https://bsky.app/profile/doggonako.bsky.social"> 
+        <img src="https://img.shields.io/badge/Bluesky-Blue?style=for-the-badge&logo=bluesky&logoColor=white&color=%231889FE"> 
+    </a>
+    <a href="https://twitch.tv/DoggoNako"> 
+        <img src="https://img.shields.io/badge/Twitch-Purple?style=for-the-badge&logo=twitch&logoColor=white&color=%23944CFF"> 
+    </a>
+    <a href="https://www.reddit.com/user/Sashapoun_Nako/"> 
+        <img src="https://img.shields.io/badge/Reddit-Orange?style=for-the-badge&logo=reddit&logoColor=white&color=%23FF451F"> 
+    </a>
+</div>
 
 <!--
 Here are some ideas to get you started:
@@ -18,6 +33,7 @@ Ideas:
     - Fond animé ? => GIF
     - Text dédoublé (Text normal et plusieurs texte derrière mais que bordure)
 - Liens vers réseaux
+- Description sur moi
 - Language que je connais
 - J'apprends quoi en ce moment
 - Mes stats
