@@ -18,6 +18,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoggoNako&layout=compact&theme=apprentice)
 
+![](https://img.shields.io/badge/HTML-Orange?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![](https://img.shields.io/badge/CSS-Blue?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
+![](https://img.shields.io/badge/Javascript-Yellow?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
+![](https://img.shields.io/badge/NodeJS-Green?style=for-the-badge&logo=node.js&logoColor=white&color=%235FA04E)
+![](https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
+![](https://img.shields.io/badge/Svelte-Orange?style=for-the-badge&logo=svelte&logoColor=white&color=%23FF3E00)
+
+
+
+
+
 <!--
 Here are some ideas to get you started:
 
